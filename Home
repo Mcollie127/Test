@@ -123,17 +123,14 @@
     <nav>
         <a href="#about">About</a>
         <a href="#mission">Mission</a>
-        <a href="#join">Join Us</a>
+        <a href="#signup">Sign Up Here</a>
         <a href="#contact">Contact</a>
     </nav>
 
     <!-- About Section -->
     <section id="about">
         <h2>About Us</h2>
-        <p>
-            BRIDGE Pathfinders is a project aimed at empowering individuals and communities to drive innovation, foster growth, and achieve excellence. 
-            Our mission is to create a network of changemakers who collaborate to find practical solutions to global challenges.
-        </p>
+        <p>Coming Soon</p>
     </section>
 
     <!-- Mission Section -->
@@ -143,16 +140,13 @@
             We are committed to building a sustainable future through collaboration, education, and innovation. 
             By bridging gaps between ideas and action, we enable people to turn their visions into impactful realities.
         </p>
-        <a href="#join" class="button">Get Involved</a>
+        <a href="#signup" class="button">Sign Up</a>
     </section>
 
-    <!-- Join Us Section -->
-    <section id="join">
-        <h2>Join BRIDGE Pathfinders</h2>
-        <p>
-            Are you ready to be part of a global movement driving change? Join our network of pathfinders today and make a difference in your community and beyond.
-        </p>
-        <a href="#contact" class="button">Contact Us</a>
+    <!-- Sign Up Section -->
+    <section id="signup">
+        <h2>Sign Up Here</h2>
+        <p>Coming Soon</p>
     </section>
 
     <!-- Footer -->
