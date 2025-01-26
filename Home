@@ -18,7 +18,7 @@
         /* Header */
         header {
             background: linear-gradient(135deg, #004aad, #007fff);
-            color: white;
+            color: rgb(167, 249, 194);
             padding: 40px 20px;
             text-align: center;
         }
@@ -44,7 +44,7 @@
         }
 
         nav a {
-            color: white;
+            color: rgb(246, 191, 191);
             text-decoration: none;
             margin: 0 15px;
             font-weight: bold;
